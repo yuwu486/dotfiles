@@ -16,5 +16,5 @@ spyware when I can.
 - Music player:             Spotify-launcher
 - Video player:             mpv
 - Virtulization:            kvm & qemu & libvirt
-- Web Browser:              firefox & chromium
+- Web Browser:              firefox
 - Fonts:                    noto
