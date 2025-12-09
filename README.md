@@ -16,3 +16,4 @@ Lightweight,open source,Simple.
 - Virtulization:            kvm & qemu & libvirt
 - Web Browser:              firefox
 - Fonts:                    noto
+- Bluetooth:                bluetui
